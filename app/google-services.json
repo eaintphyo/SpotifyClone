@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "532322277053",
+    "firebase_url": "https://cloudbaseapp-a2a07.firebaseio.com",
+    "project_id": "cloudbaseapp-a2a07",
+    "storage_bucket": "cloudbaseapp-a2a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532322277053:android:f5bc2d938514e18868c9d4",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532322277053-5e1p94o1j3vv99ano9015kip886lsk1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXRCRQTCEFb2_oHdzyfd7pPy7Cr5a7Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532322277053-5e1p94o1j3vv99ano9015kip886lsk1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532322277053:android:c1e8efd297347af968c9d4",
+        "android_client_info": {
+          "package_name": "com.mabel.spotifyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532322277053-5e1p94o1j3vv99ano9015kip886lsk1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXRCRQTCEFb2_oHdzyfd7pPy7Cr5a7Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532322277053-5e1p94o1j3vv99ano9015kip886lsk1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
